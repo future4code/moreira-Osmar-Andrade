@@ -1,11 +1,11 @@
 import React from "react"
-
+import '../App.css';
 
 class Etapa1 extends React.Component {
   render(){
     return (
     <div >
-        <h1>Etapa 1- ados Gerais</h1>
+        <h1>Etapa 1- Dados Gerais</h1>
 
         <div>
             <p>1.qual o seu nome?</p>
@@ -31,9 +31,7 @@ class Etapa1 extends React.Component {
                 <option >ensino medio imcpmpleto</option>  
 
             </select>
-            <div>
-                <button>Proxima etapa</button>
-            </div>
+           
         </div>
         
     </div>

@@ -1,5 +1,5 @@
 import React from "react"
-import './App.css';
+import '../App.css';
 
 class Etapa3 extends React.Component {
     render(){
@@ -18,12 +18,11 @@ class Etapa3 extends React.Component {
                     <option>nenhum</option>
                     <option >curso técnico</option>
                     <option >curso de ingles</option>
+        
                 </select>
             </div>
 
-            <div>
-                    <button>Proxima etapa</button>
-            </div>
+           
             
         </div>
     )

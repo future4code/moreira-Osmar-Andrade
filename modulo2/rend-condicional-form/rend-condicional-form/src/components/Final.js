@@ -1,5 +1,5 @@
-import React from "React"
-import './App.css';
+import React from "react"
+import '../App.css';
 
 class  EtapaFinal extends React.Component {
     render(){
