@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "ec863e39-6c57-4c40-b035-ab746e61ffd2",
+		"name": "labefy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "colecaoPostman",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "colecaoPostman",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
