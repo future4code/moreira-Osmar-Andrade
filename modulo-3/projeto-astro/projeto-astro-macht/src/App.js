@@ -1,6 +1,6 @@
 
-import TelaInicial from "./components/TelaInicial";
-import TelaMatches from "./components/TelaMatches";
+import TelaInicial from "./TelaInicial";
+import TelaMatches from "./TelaMatches"
 import styled from "styled-components";
 import { useState } from "react";
 
