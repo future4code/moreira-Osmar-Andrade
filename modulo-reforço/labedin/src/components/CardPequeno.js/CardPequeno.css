@@ -1,0 +1,16 @@
+
+
+
+.imagem-CardPequeno{
+    display: flex;
+    align-items: center;
+    border: 1px  solid black;
+    padding: 15px 30px;
+    margin: 10px auto;
+
+}
+
+.imagem-CardPequeno > img{
+    width: 30px;
+    margin-right: 10px;
+}
