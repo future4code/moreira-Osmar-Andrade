@@ -10,22 +10,31 @@ function retornaTamanhoArray(array) {
 
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
-  
+   return array.reverse()
 }
 
 // EXERCÍCIO 03
 function retornaArrayOrdenado(array) {
-  
+   return array.sort((a,b)=>{
+       return a-b
+   })
+ 
+
 }
 
 // EXERCÍCIO 04
 function retornaNumerosPares(array) {
-  
+   const novoArray = array.filter((array)=>{
+       return array %2 === 0 
+   })
+  return  novoArray
 }
 
 // EXERCÍCIO 05
 function retornaNumerosParesElevadosADois(array) {
- 
+      array.filter((array)=>{
+          return array %2 === 0
+      })
 }
 
 // EXERCÍCIO 06
