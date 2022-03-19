@@ -32,8 +32,13 @@ function retornaNumerosPares(array) {
 
 // EXERCÍCIO 05
 function retornaNumerosParesElevadosADois(array) {
-      array.filter((array)=>{
-          return array %2 === 0
+   
+    const novoArray = array.filter((array)=>{
+          return array %2 === 0 **2
+      })
+      
+      return novoArray.map((elevado2)=>{
+          return elevado2 **2
       })
 }
 
