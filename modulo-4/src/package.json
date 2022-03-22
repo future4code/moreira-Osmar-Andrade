@@ -1,0 +1,18 @@
+{
+  "name": "package-json",
+  "version": "1.0.0",
+  "description": "Primeira aula do back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'ola Osmar'"
+  },
+  "keywords": [
+    "node",
+    "package.json",
+    "backend"
+  ],
+   "author": "osmar",
+   "license": "ISC"
+}
+
+
